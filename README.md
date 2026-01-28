@@ -154,8 +154,6 @@ Health metrics for EC2 instances
 
 Monitoring Redis cluster
 
-### Screenshot:
-
 
 Explanation:
 Centralized logging allows easy debugging and operational monitoring.
@@ -170,6 +168,12 @@ starttech-application/
 ├── frontend/
 ├── backend/
 └── .github/workflows/
+### Frontend Application URL:
+https://d3jy76eakc971h.cloudfront.net
+
+### Backend Application URL:
+http://starttech-alb-301593755.us-east-1.elb.amazonaws.com
+
 
 ### ✅ 7️⃣ Summary
 

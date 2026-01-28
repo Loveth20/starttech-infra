@@ -247,7 +247,7 @@ aws cloudfront create-invalidation \
 screenshots/cloudfront-invalidation.png
 
 ## 6️⃣ Rollback Procedures
-6.1 Backend Rollback
+### 6.1 Backend Rollback
 
 Revert Git commit
 
@@ -276,4 +276,5 @@ aws s3 sync s3://frontend-backup s3://starttech-frontend-bucket
 ✔ Rollback strategies defined
 
 This runbook ensures safe operation, fast troubleshooting, and production readiness of the StartTech platform.
+
 
